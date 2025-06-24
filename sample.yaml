@@ -69,13 +69,13 @@ demo:
     #     # This video will be embedded in its own section on the demo's page.
     #     is_featured_video: <true | false>
   
-  # meta:
-  #   industries:
-  #     - <industry name>
-  #   solutions:
-  #     - <solution name>
-  #   products:
-  #     - <product name>
-  #   tags:
-  #     - <string>
+  meta:
+    # industries:
+    #   - <industry name>
+    # solutions:
+    #   - <solution name>
+    products:
+      - 248
+    # tags:
+    #   - <string>
   #   content_restriction_label: <restricted | not_anonymized>
