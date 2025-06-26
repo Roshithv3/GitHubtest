@@ -70,12 +70,15 @@ demo:
     #     is_featured_video: <true | false>
   
   meta:
-    # industries:
-    #   - <industry name>
-    # solutions:
-    #   - <solution name>
+    industries:
+      - 4
+      - 5
+    solutions:
+      - 1
+      - 2
     products:
       - 248
-    # tags:
-    #   - <string>
+    tags:
+      - data
+      - ai
   #   content_restriction_label: <restricted | not_anonymized>
