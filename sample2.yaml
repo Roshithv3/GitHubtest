@@ -39,6 +39,10 @@ demo:
     contributors:
       - plichtaw
       - akioolvera
+    team_owner : 123456789
+    team_contributors :
+      - 1234567893
+      - 1234567894
   
   assets:
     # List the links to image URLs that will be displayed on the demo.
