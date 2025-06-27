@@ -67,7 +67,7 @@ demo:
     additional:
       - type: vedio
         name: test21
-        link: https://s3.amazonaws.com/nykolas.me/Nykolas+Farhangi+Resume.pdf
+        link: https://s3.amazonaws.com/nykolas.me/Nykolas+Farhangi+Resume2.pdf
         # Designates an asset as the demo's key asset.
         # This asset will be featured as a button on the top of the demo's page.
         is_key_asset: true
