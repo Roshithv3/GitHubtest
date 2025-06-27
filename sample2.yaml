@@ -67,7 +67,7 @@ demo:
     additional:
       - type: vedio
         name: test21
-        link: https://www.youtube.com/watch?v=K4_NQlSu5mc
+        link:
         # Designates an asset as the demo's key asset.
         # This asset will be featured as a button on the top of the demo's page.
         is_key_asset: true
