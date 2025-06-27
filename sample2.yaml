@@ -58,16 +58,16 @@ demo:
     demo_guide: https://s3.amazonaws.com/nykolas.me/Nykolas+Farhangi+Resume.pdf
 
     # Additional assets for the demo.
-    # additional:
-    #   - type: blueprint | code_repository | ...
-    #     name: <string>
-    #     link: <link>
-    #     # Designates an asset as the demo's key asset.
-    #     # This asset will be featured as a button on the top of the demo's page.
-    #     is_key_asset: <true | false>
-    #     # Features a supporting video.
-    #     # This video will be embedded in its own section on the demo's page.
-    #     is_featured_video: <true | false>
+    additional:
+      - type: vedio
+        name: test21
+        link: https://www.youtube.com/watch?v=K4_NQlSu5mc
+        # Designates an asset as the demo's key asset.
+        # This asset will be featured as a button on the top of the demo's page.
+        is_key_asset: true
+        # Features a supporting video.
+        # This video will be embedded in its own section on the demo's page.
+        is_featured_video: true
   
   meta:
     industries:
