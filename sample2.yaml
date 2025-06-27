@@ -43,6 +43,8 @@ demo:
     team_contributors :
       - 1234567893
       - 1234567894
+    channel : 91
+    
   
   assets:
     # List the links to image URLs that will be displayed on the demo.
