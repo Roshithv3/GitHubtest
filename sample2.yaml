@@ -81,4 +81,6 @@ demo:
     tags:
       - data
       - ai
-  #   content_restriction_label: <restricted | not_anonymized>
+    content_restriction_label:
+      - restricted 
+      - not_anonymized>
