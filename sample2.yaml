@@ -3,7 +3,7 @@ file:
 demo:
   info:
     type: application
-    title: Gen AI for Marketing  95
+    title: Gen AI for Marketing  100
     thumbnail_summary: Generate creative content for multi-channel marketing
     
     # A summary of the demo's intention. Markdown supported.
@@ -83,4 +83,4 @@ demo:
       - ai
     content_restriction_label:
       - restricted 
-      - not_anonymized>
+      - not_anonymized
