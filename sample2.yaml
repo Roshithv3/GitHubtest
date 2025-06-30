@@ -65,7 +65,7 @@ demo:
 
     # Additional assets for the demo.
     additional:
-      - type: vedio
+      - type: video
         name: test23
         link: https://s3.amazonaws.com/nykolas.me/Nykolas+Farhangi+Resume2.pdf
         # Designates an asset as the demo's key asset.
